@@ -1,0 +1,5 @@
+2024-09-22 15:05:18.333| INFO     |MainThread|DatabasePool.Initialize|databasePool.py:32 - 开始初始化数据库连接池
+2024-09-22 15:05:18.685| ERROR    |MainThread|DatabasePool.Initialize|databasePool.py:47 - 数据库连接池初始化失败: (1049, "Unknown database 'furina'")
+2024-09-22 15:09:49.005| INFO     |MainThread|DatabasePool.Initialize|databasePool.py:32 - 开始初始化数据库连接池
+2024-09-22 15:09:49.039| INFO     |MainThread|DatabasePool.Initialize|databasePool.py:44 - 数据库连接池已初始化
+2024-09-22 15:14:00.016| INFO     |MainThread|DatabasePool.close|databasePool.py:65 - 数据库连接池已关闭

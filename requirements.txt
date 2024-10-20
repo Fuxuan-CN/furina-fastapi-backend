@@ -1,0 +1,12 @@
+SparkleLogging
+fastapi
+aiomysql
+pydantic
+uvicorn
+aiofiles
+requests
+pytest-asyncio
+pytest
+pyjwt
+python-magic
+python-magic-bin

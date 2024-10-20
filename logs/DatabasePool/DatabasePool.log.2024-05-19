@@ -1,0 +1,4 @@
+2024-05-19 20:53:32.488| INFO     |MainThread|DatabasePool.Initialize|databasePool.py:32 - 开始初始化数据库连接池
+2024-05-19 20:53:36.553| ERROR    |MainThread|DatabasePool.Initialize|databasePool.py:47 - 数据库连接池初始化失败: (2003, "Can't connect to MySQL server on 'localhost'")
+2024-05-19 20:57:22.730| INFO     |MainThread|DatabasePool.Initialize|databasePool.py:32 - 开始初始化数据库连接池
+2024-05-19 20:57:26.792| ERROR    |MainThread|DatabasePool.Initialize|databasePool.py:47 - 数据库连接池初始化失败: (2003, "Can't connect to MySQL server on 'localhost'")

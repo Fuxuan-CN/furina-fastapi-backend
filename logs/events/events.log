@@ -1,0 +1,2 @@
+2024-09-22 15:09:49.039| INFO     |MainThread|events.startup|events.py:33 - Furina 网站API 启动成功,API后端程序开启,服务器运行在: http://127.0.0.1:5000
+2024-09-22 15:14:00.017| INFO     |MainThread|events.shutdown|events.py:38 - Furina 网站API 关闭成功

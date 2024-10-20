@@ -1,0 +1,1 @@
+2024-05-19 20:53:32.487| INFO     |MainThread|events.startup|events.py:32 - Furina 网站API 启动成功,API后端程序开启,服务器运行在: http://127.0.0.1:5000
